@@ -4,7 +4,7 @@
   <a href="https://github.com/ViCastorino">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViCastorino&show_icons=true&theme=dark&show&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViCastorino&layout=compact&langs_count=6&theme=dark&show"/>
-
+<br>
   <img src="https://img.icons8.com/color/2x/html-5.png" width="120" alt="HTML5">
   <img src="https://img.icons8.com/color/2x/css3.png" width="120" alt="CSS3">
   <img src="https://img.icons8.com/nolan/2x/javascript.png" width="120" alt="JavaScript">
